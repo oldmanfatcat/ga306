@@ -1,0 +1,1 @@
+this programes replace one OBJ with a nother OBj you just need to put the name of the OBJ in place of polycube and run the code
